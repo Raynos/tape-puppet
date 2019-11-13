@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chiefbiiko/tape-puppet.git"
+    "url": "git+https://github.com/raynos/tape-puppet.git"
   },
   "keywords": [
     "tape",
@@ -26,9 +26,9 @@
   "author": "Noah Anabiik Schwarz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chiefbiiko/tape-puppet/issues"
+    "url": "https://github.com/raynos/tape-puppet/issues"
   },
-  "homepage": "https://github.com/chiefbiiko/tape-puppet#readme",
+  "homepage": "https://github.com/raynos/tape-puppet#readme",
   "dependencies": {
     "minimist": "^1.2.0",
     "pump": "^3.0.0",
