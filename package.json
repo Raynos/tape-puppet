@@ -1,5 +1,5 @@
 {
-  "name": "tape-puppet",
+  "name": "raynos-tape-puppet",
   "version": "0.1.7",
   "description": "duplex stream that runs browserified tape tests with puppeteer",
   "main": "index.js",
